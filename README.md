@@ -6,6 +6,8 @@ The customer support team aims to develop a comprehensive dashboard to monitor a
 
 ### Dashboard 1: Home
 
+![image](https://github.com/tanv99/CustomerSupportDashboard/assets/47503747/33950834-f85d-4bdf-a8ee-0ccf7a0764d2)
+
 1. Total Calls by Day (Column Chart):
     Generate a column chart depicting the total number of calls on each day within a specified time frame.
 2. Total Calls by State (Filled Map Chart):
@@ -20,6 +22,8 @@ The customer support team aims to develop a comprehensive dashboard to monitor a
     Generate a bar chart presenting the total number of calls handled by each call center or department.
 
 ### Dashboard 2: Grid
+
+![image](https://github.com/tanv99/CustomerSupportDashboard/assets/47503747/a8dc2521-bee7-483c-8ebc-79db89b0dac3)
 
 1. Create a grid dashboard displaying a table of all call details in PowerBI.
 2. This should allow a user to export the grid for various filters applied.
